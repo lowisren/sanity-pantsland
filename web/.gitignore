@@ -69,6 +69,7 @@ yarn.lock
 
 # Secrets
 .env.development
+.env.production
 
 # vscode
 .vscode/
