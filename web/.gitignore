@@ -71,6 +71,7 @@ yarn.lock
 .env.development
 .env.production
 
+
 # vscode
 .vscode/
 studio/.vscode/
